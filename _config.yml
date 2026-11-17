@@ -1,2 +1,4 @@
-style_light: "latte"     # latte, frappe, macchiato, mocha
+style_light: "frappe"     # latte, frappe, macchiato, mocha
 style_dark: "mocha"
+title: sbilf's den
+description: awful stuff to come!
