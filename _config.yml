@@ -2,3 +2,15 @@ style_light: "frappe"     # latte, frappe, macchiato, mocha
 style_dark: "mocha"
 title: sbilf's den
 description: awful stuff to come!
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - flake.nix
+  - flake.lock
+  - README.md
+
+sass:
+  sass_dir: assets/css/_sass
+  style: compressed
