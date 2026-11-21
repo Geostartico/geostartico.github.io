@@ -14,3 +14,9 @@ exclude:
 sass:
   sass_dir: assets/css/_sass
   style: compressed
+profile:
+  image: "/imgs/profile.jpg"
+  links:
+    - name: "GitHub"
+      url: "https://github.com/Geostartico"
+      description: "Personal git repositories"
